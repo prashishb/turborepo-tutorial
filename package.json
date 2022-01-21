@@ -44,7 +44,7 @@
     "apps/**/*.{js,ts,jsx,tsx}": [
       "eslint --fix"
     ],
-    "packages/ui/**/*.{js,ts,jsx,tsx}": [
+    "packages/ui/**/*.tsx": [
       "eslint --fix"
     ],
     "*.json": [
